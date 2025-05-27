@@ -1,7 +1,7 @@
 # Supply Chain Analysis Using PowerBI
 
 ## Project Description  
-I carried out this analysis in a Jupyter Notebook (inside VS Code) using pandas to explore a fashion & beauty startup’s supply chain data. My goal was to clean and structure the data, then answer a series of business questions—everything from sales trends to defect rates to pricing impact—using groupby, aggregation, and visualizations to uncover actionable insights.
+I carried out this analysis in a Jupyter Notebook (inside VS Code) using pandas to explore a fashion & beauty startup’s supply chain data. My goal was to clean and structure the data, then answer a series of business questions everything from sales trends to defect rates to pricing impact using groupby, aggregation, and visualizations to uncover actionable insights.
 
 ## Dataset  
 The dataset tracks every stage of our supply chain:  
