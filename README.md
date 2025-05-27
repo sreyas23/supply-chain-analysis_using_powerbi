@@ -11,8 +11,7 @@ The dataset tracks every stage of our supply chain:
 - **Sales**: units sold, revenue, customer demographics  
 - **Quality**: inspection results  
 
-I downloaded it from StatSo’s Supply Chain Case Study:  
-https://statso.io/supply-chain-analysis-case-study/
+I downloaded it from StatSo’s Supply Chain Case Study:   https://statso.io/supply-chain-analysis-case-study/
 
 ## Tools & Environment  
 - **Language & Libraries**: Python 3.x, pandas, NumPy, matplotlib  
@@ -45,6 +44,11 @@ After cleaning, the data was ready for exploration and feature creation.
 - Which shipping routes deliver the best cost efficiency?  
 - What share of total revenue does each product type generate?  
 - How much additional revenue could a 10% price increase bring?
+
+## Power BI Insights
+
+![powerbi_insights report](https://github.com/sreyas23/supply-chain-analysis_using_powerbi/blob/6a787714f9686d147b7785189c282864baea0719/PowerBI_Report_sreya.png)
+
 
 ## Key Insights  
 - **Top Sellers**: Cosmetics lead in units sold; Skincare drives the biggest revenue share  
